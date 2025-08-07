@@ -1,0 +1,36 @@
+body{
+    background: #030712;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+.text-muted{
+    color: rgba(238, 246, 255, 0.5) !important;
+}
+.card{
+    background: #2e364e77;
+}
+.node-content{
+    color: #fff;
+}
+.node-header{
+    color: #fff;
+}
+.modal-content{
+    background: #2e364e;
+    color: #fff;
+}
+.test-step{
+    color: #fff;
+}
+strong{
+    color: #fff;
+}
+.test-step .alert strong{
+    color:#03071298
+}
+.test-step .alert .text-muted{
+    color: #6c80b9 !important;
+}
+.test-step h6{
+    color: #fff;
+}
